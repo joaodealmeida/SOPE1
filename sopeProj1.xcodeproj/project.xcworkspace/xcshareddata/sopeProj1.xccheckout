@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>03758950-98FA-4D70-8AF9-D0ABABACFFBA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>sopeProj1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>731BDB4B-0E31-4D48-841C-65C6DC806BEA</key>
+		<string>ssh://git.edr.io:7999/sope/projeto-1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>sopeProj1.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>731BDB4B-0E31-4D48-841C-65C6DC806BEA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://git.edr.io:7999/sope/projeto-1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>731BDB4B-0E31-4D48-841C-65C6DC806BEA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>731BDB4B-0E31-4D48-841C-65C6DC806BEA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sopeProj1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
